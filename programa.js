@@ -1,0 +1,1 @@
+alert("Mensaje ingresado desde archivo externo")
